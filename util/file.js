@@ -7,5 +7,6 @@ const deleteFile = (filepath) => {
     }
   });
 };
+// DELETE FILE
 
 exports.deleteFile = deleteFile;
